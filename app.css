@@ -355,8 +355,8 @@ a:focus-visible,*[tabindex]:focus-visible,input[type=file]:focus-visible{
 	transition:opacity .1s,-webkit-transform .25s ease-in-out;
 	transition:transform .25s ease-in-out,opacity .1s;
 	transition:transform .25s ease-in-out,opacity .1s,-webkit-transform .25s ease-in-out;
-	/*-webkit-mask:url(https://uploads-ssl.webflow.com/63d7d5a6ecc8771098dae145/63f38aafbc9f6fb3cd057650_icon-arrow-right.svg);
-	mask:url(https://uploads-ssl.webflow.com/63d7d5a6ecc8771098dae145/63f38aafbc9f6fb3cd057650_icon-arrow-right.svg);*/
+	-webkit-mask:url(https://uploads-ssl.webflow.com/64667741551644b9aa8a1ed8/646fccb238fb6b5c98f56bea_seed.svg);
+	mask:url(https://uploads-ssl.webflow.com/64667741551644b9aa8a1ed8/646fccb238fb6b5c98f56bea_seed.svg);
 	will-change:transform
 }
 .mf-cursor.-showcase:before{

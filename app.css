@@ -208,7 +208,6 @@ body{
 	-moz-osx-font-smoothing:grayscale;
 	font-smoothing:antialiased;
 	text-rendering:optimizeLegibility
-	overflow: hidden;
 }
 
 .line{

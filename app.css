@@ -208,7 +208,13 @@ body{
 	-moz-osx-font-smoothing:grayscale;
 	font-smoothing:antialiased;
 	text-rendering:optimizeLegibility
+	overflow-y: hidden;
 }
+
+iframe {
+display: block;
+}
+
 .line{
 	overflow:hidden;
 	-webkit-transform-origin:bottom;
